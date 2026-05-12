@@ -1,5 +1,3 @@
-import React from 'react';
-
 const About = () => {
   return (
     <section className="py-20 px-10 md:px-20 bg-white font-sans">

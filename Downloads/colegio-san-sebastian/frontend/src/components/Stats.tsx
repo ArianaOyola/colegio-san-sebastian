@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 const Stats = () => {
   const [counts, setCounts] = useState({ exp: 0, students: 0, uni: 0, levels: 0 });

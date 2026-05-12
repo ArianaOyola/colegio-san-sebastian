@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 // Definimos la estructura de la noticia para TypeScript/React
 interface Noticia {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 // ...otras importaciones
 import Hero from '../components/Hero';
 import About from '../components/About';
